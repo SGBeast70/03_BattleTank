@@ -9,5 +9,6 @@ Feel free to download the files!
 SGBeast70
 
 ## Commit Lists
-BT01 Github Repo Setup
+* Initial Commit
+* BT01 Github Repo Setup
 
