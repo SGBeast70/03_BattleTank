@@ -11,5 +11,7 @@ SGBeast70
 ## Commit Lists
 * Initial Commit
 * BT01 Github Repo Setup
+* BT01 Github Repo Setup (update)
 * BT02 Landscape and UE4 Project Setup
+* BT03 Landscape Setup & Scaling
 
